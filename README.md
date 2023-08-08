@@ -6,6 +6,6 @@ Welcome to my SQL project portfolio! This repository showcases a collection of S
 
 Description: Skillfully employed SQL techniques including Joins, Common Table Expressions (CTEs), Temp Tables, Window Functions, Aggregate Functions, and the          creation of Views. This comprehensive analysis delves into various aspects of the pandemic's impact and vaccination efforts. The project covers mortality rates,       infection ratios, and vaccination progress across continents and countries. By merging data from different sources, I extract key insights on total cases, deaths,     vaccination rates, and more. 
 
-2. Nashville Houing Data Cleaning Project
+2. Nashville Housing Data Cleaning Project
 
-Description: 
+Description: This project showcases my expertise in data cleaning techniques using SQL. The project involves refining a dataset called NashvilleHousingData. I apply a series of queries to clean and structure the data effectively. Key tasks include standardizing date formats, populating missing property addresses, splitting addresses into individual columns, and transforming "Sold as Vacant" values from Y/N to Yes/No. Additionally, I eliminate duplicate data through row numbering and remove unused columns to enhance data quality and usability. This project demonstrates my proficiency in employing SQL queries to enhance data integrity and facilitate downstream analysis.
