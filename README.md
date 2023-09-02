@@ -26,7 +26,7 @@ Description: Developed a comprehensive HR Attrition Dashboard in Power BI, showc
 
 Description: Led a Salesforce-driven operational transformation project aimed at optimizing supply chain efficiency within outpatient clinics. Developed a custom Salesforce application to streamline medical and rehabilitative supply processes, leveraging strategic insights. Additionally, authored a comprehensive manual for strategic operational use, facilitating the creation of a tailored medical supply management app to enhance clinic operations and patient care.
 
-8. Maximizing Net Revenue for Lyft’s Toledo Route Project
+7. Maximizing Net Revenue for Lyft’s Toledo Route Project
 
 Description: Led pricing strategy as Lyft's Product Manager for Toledo route, optimizing net revenue through pricing experiments and adjustments. Achieved 33% increase in match rate, prioritizing long-term sustainability and balanced rider-driver incentives. Implemented data-driven solutions and adaptive pricing model. Delivered actionable recommendations for continuous growth in the dynamic ride-hailing industry.
 
