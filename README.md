@@ -22,6 +22,10 @@ Description: Performed meticulous data merging and rigorous cleansing. Utilizing
 
 Description: Developed a comprehensive HR Attrition Dashboard in Power BI, showcasing adept data transformation and analysis skills. Leveraged Power Query for data cleaning and conditional column creation, while utilizing DAX functions to calculate attrition rate. Created a dynamic dashboard highlighting attrition trends by department, age, gender, education field, and job satisfaction utilizing filters, slicers, and diverse chart types for enhanced visualization.
 
-6. Nashville Housing Data Cleaning Project
+6. Maximizing Net Revenue for Lyft’s Toledo Route Project
+
+Description: A prject where I led pricing strategy as Lyft's Product Manager for Toledo route, optimizing net revenue through pricing experiments and adjustments. Achieved 33% increase in match rate, prioritizing long-term sustainability and balanced rider-driver incentives. Implemented data-driven solutions and adaptive pricing model. Delivered actionable recommendations for continuous growth in the dynamic ride-hailing industry.
+
+7. Nashville Housing Data Cleaning Project
 
 Description: This project showcases my expertise in data cleaning techniques using SQL. The project involves refining a dataset called NashvilleHousingData. I apply a series of queries to clean and structure the data effectively. Key tasks include standardizing date formats, populating missing property addresses, splitting addresses into individual columns, and transforming "Sold as Vacant" values from Y/N to Yes/No. Additionally, I eliminate duplicate data through row numbering and remove unused columns to enhance data quality and usability. This project demonstrates my proficiency in employing SQL queries to enhance data integrity and facilitate downstream analysis.
