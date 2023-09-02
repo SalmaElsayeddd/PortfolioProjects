@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-Welcome to my portfolio, a collection of projects spanning SQL, Excel, Tableau, and PowerBI. Delve into the world of data manipulation, analysis, and visualization, as each project unfolds a unique facet of my expertise. From crafting intricate SQL queries to harnessing the power of Excel's functions, and from designing captivating Tableau visualizations to orchestrating dynamic dashboards in PowerBI, this repository encapsulates the essence of my capabilities as a versatile data enthusiast. Feel free to explore the projects listed below to get a better understanding of my capabilities in the realm of data analytics and management!
+Welcome to my portfolio, a collection of projects spanning SQL, Salesforce, Excel, Tableau, and PowerBI. Delve into the world of data manipulation, analysis, and visualization, as each project unfolds a unique facet of my expertise. From crafting intricate SQL queries to harnessing the power of Excel's functions, and from designing captivating Tableau visualizations to orchestrating dynamic dashboards in PowerBI, this repository encapsulates the essence of my capabilities as a versatile data enthusiast. Feel free to explore the projects listed below to get a better understanding of my capabilities in the realm of data analytics and management!
 
 1. COVID Analysis Project
 
