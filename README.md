@@ -34,6 +34,10 @@ Description: Led pricing strategy as Lyft's Product Manager for Toledo route, op
 
 Description: This project showcases my expertise in data cleaning techniques using SQL. The project involves refining a dataset called NashvilleHousingData. I apply a series of queries to clean and structure the data effectively. Key tasks include standardizing date formats, populating missing property addresses, splitting addresses into individual columns, and transforming "Sold as Vacant" values from Y/N to Yes/No. Additionally, I eliminate duplicate data through row numbering and remove unused columns to enhance data quality and usability. This project demonstrates my proficiency in employing SQL queries to enhance data integrity and facilitate downstream analysis.
 
-9. Salesforce Slack Integration Manual
+9. Optimizing Member Outcomes: A Deep Dive into Quality Management Strategies
+
+Description: Led a data-driven initiative to assess quality business metrics, analyzing a dataset of 3,590 records to derive insights into member engagement. Utilized Excel for data cleaning, visualization, and creation of performance metrics. Implemented targeted interventions for therapist training, treatment initiation, and member communication, emphasizing scalability and continuous improvement.
+
+10. Salesforce Slack Integration Manual
 
 Description: Led a strategic Salesforce Slack Integration project, merging Salesforce with Slack for real-time communication, notifications, and process optimization. Key objectives included training, custom alert setup, Slack workspace configuration, and automated notifications. The project culminated in seamless Salesforce-Slack integration, enhancing operational efficiency.
